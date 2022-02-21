@@ -1,0 +1,128 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "QboProductUpdater/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "QuickBooksSharp": "1.6.4"
+        },
+        "runtime": {
+          "QboProductUpdater.dll": {}
+        }
+      },
+      "Flurl/3.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Flurl.dll": {
+            "assemblyVersion": "3.0.1.0",
+            "fileVersion": "3.0.1.0"
+          }
+        }
+      },
+      "Macross.Json.Extensions/2.0.0": {
+        "dependencies": {
+          "System.Text.Json": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Macross.Json.Extensions.dll": {
+            "assemblyVersion": "2.0.0.21012",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "QuickBooksSharp/1.6.4": {
+        "dependencies": {
+          "Flurl": "3.0.1",
+          "Macross.Json.Extensions": "2.0.0",
+          "System.Net.Http.Json": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/QuickBooksSharp.dll": {
+            "assemblyVersion": "1.6.4.0",
+            "fileVersion": "1.6.4.0"
+          }
+        }
+      },
+      "System.Net.Http.Json/5.0.0": {
+        "dependencies": {
+          "System.Text.Json": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Net.Http.Json.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "System.Text.Json/5.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.0/System.Text.Json.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QboProductUpdater/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Flurl/3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-i7CuPSikVroBaWG8sPvO707Ex9C6BP5+r4JufKNU1FGMmiFgLJvNo1ttUg6ZiXIzUNknvIb1VUTIO9iEDucibg==",
+      "path": "flurl/3.0.1",
+      "hashPath": "flurl.3.0.1.nupkg.sha512"
+    },
+    "Macross.Json.Extensions/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LgC+ZlbequOJsQtP+h1/ldhF9EJVx1zRTTEDjTuziMnymOOTWgzxFlqYQ748lvlCdQYOhNkAjOqHVOsfCWgOhA==",
+      "path": "macross.json.extensions/2.0.0",
+      "hashPath": "macross.json.extensions.2.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "QuickBooksSharp/1.6.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/mxB05xM7xdVosRvQ1OvxYQ0XXHQaifz08xfiCEudGF7xjfXh88XOazrM5LCr5hZqDt/JG9zpOcYS4/DL1Zwqw==",
+      "path": "quickbookssharp/1.6.4",
+      "hashPath": "quickbookssharp.1.6.4.nupkg.sha512"
+    },
+    "System.Net.Http.Json/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3CPSQpCzEmI9o+1G79TnPCjF40omCdnoXj2Rg76BDwGj5+LZnFPjV+t35eedlvl+uthmholk/XXxXTYgJWSexw==",
+      "path": "system.net.http.json/5.0.0",
+      "hashPath": "system.net.http.json.5.0.0.nupkg.sha512"
+    },
+    "System.Text.Json/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+luxMQNZ2WqeffBU7Ml6njIvxc8169NW2oU+ygNudXQGZiarjE7DOtN7bILiQjTZjkmwwRZGTtLzmdrSI/Ustw==",
+      "path": "system.text.json/5.0.0",
+      "hashPath": "system.text.json.5.0.0.nupkg.sha512"
+    }
+  }
+}

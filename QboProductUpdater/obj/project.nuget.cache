@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "JqLb3Ms8AkfytYM7M8jSS6V2rZPXvhKsweFGumrc0tC/bEy5/+wkipqqbiKPdGHFixnfdZV8q+s5o8cQ7yK7Xw==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\QboProductUpdater\\QboProductUpdater\\QboProductUpdater.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikie.TLOFFICE\\.nuget\\packages\\flurl\\3.0.1\\flurl.3.0.1.nupkg.sha512",
+    "C:\\Users\\mikie.TLOFFICE\\.nuget\\packages\\macross.json.extensions\\2.0.0\\macross.json.extensions.2.0.0.nupkg.sha512",
+    "C:\\Users\\mikie.TLOFFICE\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\mikie.TLOFFICE\\.nuget\\packages\\quickbookssharp\\1.6.4\\quickbookssharp.1.6.4.nupkg.sha512",
+    "C:\\Users\\mikie.TLOFFICE\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\mikie.TLOFFICE\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\mikie.TLOFFICE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\mikie.TLOFFICE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.2\\microsoft.netcore.app.host.win-x64.3.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
